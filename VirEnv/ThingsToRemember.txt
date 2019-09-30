@@ -1,0 +1,17 @@
+imports in py
+    from #file name# import #class#
+
+venv to create a virtual enviroment for python
+
+use pip to install the libs required
+
+use settuptools to settup basic development interface
+
+
+use python-dotenv to create environmental settings
+
+
+flask-wtf for form management
+        create a config py and class for a secret key to stop cross site attacks
+
+flaskwtf needs something and i need to work out what the fuck that is first
