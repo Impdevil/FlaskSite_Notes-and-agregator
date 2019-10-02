@@ -11,7 +11,17 @@ use settuptools to settup basic development interface
 use python-dotenv to create environmental settings
 
 
+Python env doesnt work properly for the most part :/ with moduals that are only installed
+on the env - learning Docker would help with this probably
+    --so install on you proper development python
+
+
+
 flask-wtf for form management
         create a config py and class for a secret key to stop cross site attacks
 
-flaskwtf needs something and i need to work out what the fuck that is first
+Flask-alembic
+
+flask-sqlalchemy used for connecting to an sql based databased
+
+flask-migrate used to move and edit and replace SQL data bases
