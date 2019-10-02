@@ -25,3 +25,8 @@ Flask-alembic
 flask-sqlalchemy used for connecting to an sql based databased
 
 flask-migrate used to move and edit and replace SQL data bases
+
+Dont forget to create the file (app.db) or have the correct like to the databased
+before running flask db init
+
+then run flask db migrate -m "table_name table" this config migration will appear in your migrations folder
