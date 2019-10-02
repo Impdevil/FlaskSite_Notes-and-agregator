@@ -30,3 +30,11 @@ Dont forget to create the file (app.db) or have the correct like to the database
 before running flask db init
 
 then run flask db migrate -m "table_name table" this config migration will appear in your migrations folder
+
+
+
+look at models.py for information on relationship structure
+
+and make sure you run the flask migrate upgrade command afterwards
+
+
