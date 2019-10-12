@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Arran Blows\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.pythonPath": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.linting.pylintArgs": ["--load-plugins", "pylint_flask"]
 }
